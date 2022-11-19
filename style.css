@@ -82,6 +82,22 @@ section{
   
 }
 
+.wrapper1 .title1 h3{
+  color: rgb(7, 7, 43);
+  text-align: left-align;
+  margin-bottom: 15px;
+  font-size: 1.8rem;
+  
+}
+
+.wrapper1 .title1 #trip{
+  color: black;
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 2rem;
+  
+}
+
 .contact-form{
   display: flex;
 }
